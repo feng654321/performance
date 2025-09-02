@@ -1,0 +1,4 @@
+Error: Failed to bind socket
+epoll_event_handler destructor called.
+Stopping dispatcherepoll event loop.
+Socket 5 unregistered from event loop.

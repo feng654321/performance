@@ -1,0 +1,2 @@
+Error: Failed to bind socket
+select_event_handler destructor called.
